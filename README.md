@@ -8,17 +8,13 @@
 
 ## The problem
 
-We run a small lifestyle block with a sheep flock. Farming at our scale doesn't bring the demands of large-scale paddock rotation, but there's still plenty to keep track of:
+We used to manage our flock in a spreadsheet and take a printout down to the paddock at treatment time. Picture it: hunting for the right sheep number on a small sheet of paper the wind keeps trying to steal, forgetting which pocket the pen is in, and digging out reading glasses to make it all work. By the end of a session with just 19 sheep, the page was covered in grass and sheep poo – and I still had to go back up to the house and update the spreadsheet by hand.
 
-- which animals are due for treatment, and when
-- which ewes can go to the ram, and at what stage
-- how each animal is related to the rest of the flock
-
-We kept this in spreadsheets, and they broke down exactly when it mattered: at lambing, at treatment time, and when choosing breeding pairs. Paddock Pal turns those scattered records into clear, timely decisions.
+On top of that was the constant juggling: which lamb is due for its booster vaccination, and which ewe is ready to go in with the ram. I wanted one place that turns scattered records into clear, timely decisions.
 
 ## My role
 
-**Product owner and lead developer.** I shaped the product from first-hand farm experience, set the requirements, made the architectural and business-rule decisions, and took it from concept to a working system that we use on our own farm.
+**Product owner, lead developer and end user.** Requirements, architecture, business rules and delivery, from concept to a working system. As the person using it in the paddock, I feel every rough edge first-hand, and that feeds straight back into the product.
 
 ## Stack
 
