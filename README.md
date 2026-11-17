@@ -86,7 +86,7 @@ Short, practical guides written for farmers, not developers.
 
 **Home:** what needs attention today – overdue treatments, the flock count, planned departures, breeding risks, upcoming lambing and this week's tasks.
 
-![Paddock Pal home page](screenshots/home.png)
+![Paddock Pal home page](screenshots/paddockpal-home.png)
 
 **Flock:** every animal in the paddock, filterable by status and owner and exportable as a stock sheet, with overdue and breeding-risk flags. *(Co-owner names blurred.)*
 
